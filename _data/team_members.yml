@@ -1,0 +1,17 @@
+- name: Eyal Ben-David
+  photo: Eyal.jpg
+  info: Senior Lecturer
+  email: eyal.bendavid@mail.huji.ac.il
+  number_educ: 3
+  education1: B.Sc. at Hebrew University (2010)
+  education2: Ph.D. at Hebrew University (2015) with <a href="https://neurogenetics.huji.ac.il/">Sagiv Shifman</a>
+  education3: Postdoc at UCLA (2020) with <a href="https://kruglyak.genetics.ucla.edu/">Leonid Kruglyak</a>
+
+- name: "Your photo here :)"
+  photo: ../dummy.png
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2: 
+  education3: 

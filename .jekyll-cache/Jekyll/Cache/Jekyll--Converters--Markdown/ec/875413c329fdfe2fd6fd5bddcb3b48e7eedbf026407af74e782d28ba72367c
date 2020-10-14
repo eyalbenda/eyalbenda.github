@@ -1,0 +1,130 @@
+I"@&<h1 id="publications">Publications</h1>
+
+<h2 id="highlighted-publications">Highlighted Publications</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or at <a href="https://scholar.google.com/citations?user=2sATtW4AAAAJ&amp;hl=en">Google Scholar</a></p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Whole-organism mapping of the genetics of gene expression at cellular resolution</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/sceqtl.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We map regulatory variants in C. elegans across the different cell-types, and discover loci that affect individual neurons in a cell-specific manner.</p>
+      <p><em>E. Ben-David, J. Boocock, L. Guo, S. Zdraljevic, J. S. Bloom, L. Kruglyak</em></p>
+      <p><strong><a href="https://doi.org/10.1101/2020.08.23.263798">bioRxiv (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Ubiquitous selfish toxin-antidote elements in Caenorhabditis species</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/tropics.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We discovered five toxin-antidote (TAs) seflish elements in <em>C. tropicalis</em> and one in <em>C. briggsae</em>. Our work suggests they are common in nematodes, and in animals in general.</p>
+      <p><em>E. Ben-David*, P. Pliota*, S. A. Widen, A. Koreshova, T. Lemus-Vergara, P. Verpukhovskiy, S. Mandali, C. Braendle, A. Burga, L. Kruglyak</em></p>
+      <p><strong><a href="https://doi.org/10.1101/2020.08.06.240564">bioRxiv (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Fast genetic mapping of complex traits in C. elegans using millions of individuals in bulk</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/xqtl.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We developed a method to quickly map genetic loci affecting complex traits in extremely large populations in <em>C. elegans</em>.</p>
+      <p><em>A. Burga*, E. Ben-David*, T. Lemus Vergara, J. Boocock, L. Kruglyak</em></p>
+      <p><strong><a href="https://doi.org/10.1038/s41467-019-10636-9">Nat Commun. 10, 2680 (2019)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>A maternal-effect selfish genetic element in Caenorhabditis elegans</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/pha1.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We discovered that <em>pha-1</em>, a gene thought to be essential for nematode worm development is, in fact, part of a toxin-antidote selfish genetic element.</p>
+      <p><em>E. Ben-David*, A. Burga*, L. Kruglyak</em></p>
+      <p><strong><a href="https://doi.org/10.1126/science.aan0621">Science. 356, Issue 6342 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> covered in <a href="https://www.sciencedirect.com/science/article/pii/S0960982217308898">current biology</a>, <a href="https://arstechnica.com/science/2017/05/worm-moms-pumps-eggs-full-of-toxin-demand-they-inherit-an-antidote/">ars technica</a>, <a href="https://www.sciencenews.org/article/selfish-genes-hide-decades-plain-sight-worm-geneticists">science news</a>, <a href="https://phys.org/news/2017-05-worms-reveals-selfish-genes-encode.html">phys.org</a></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Toxin-Antidote Elements Across the Tree of Life <br />
+  <em>A. Burga<em>, E. Ben-David</em>, L. Kruglyak </em><br /><a href="https://doi.org/10.1146/annurev-genet-112618-043659">Annual Review of Genetics</a></p>
+
+<p>Whole-organism mapping of the genetics of gene expression at cellular resolution <br />
+  <em>E. Ben-David, J. Boocock, L. Guo, S. Zdraljevic, J. S. Bloom, L. Kruglyak </em><br /><a href="https://doi.org/10.1101/2020.08.23.263798">bioRxiv (2020)</a></p>
+
+<p>Ubiquitous selfish toxin-antidote elements in Caenorhabditis species <br />
+  <em>E. Ben-David*, P. Pliota*, S. A. Widen, A. Koreshova, T. Lemus-Vergara, P. Verpukhovskiy, S. Mandali, C. Braendle, A. Burga, L. Kruglyak </em><br /><a href="https://doi.org/10.1101/2020.08.06.240564">bioRxiv (2020)</a></p>
+
+<p>Three-dimensional virtual refocusing of fluorescence microscopy images using deep learning <br />
+  <em>Y. Wu, Y. Rivenson, H. Wang, Y. Luo, E. Ben-David, L. A. Bentolila, C. Pritz, A. Ozcan </em><br /><a href="https://doi.org/10.1038/s41592-019-0622-5">Nat Methods. 16, 1323–1331 (2019)</a></p>
+
+<p>Fast genetic mapping of complex traits in C. elegans using millions of individuals in bulk <br />
+  <em>A. Burga*, E. Ben-David*, T. Lemus Vergara, J. Boocock, L. Kruglyak </em><br /><a href="https://doi.org/10.1038/s41467-019-10636-9">Nat Commun. 10, 2680 (2019)</a></p>
+
+<p>A maternal-effect selfish genetic element in Caenorhabditis elegans <br />
+  <em>E. Ben-David*, A. Burga*, L. Kruglyak </em><br /><a href="https://doi.org/10.1126/science.aan0621">Science. 356, Issue 6342 (2017)</a></p>
+
+<p>A genetic signature of the evolution of loss of flight in the Galapagos cormorant <br />
+  <em>A. Burga, W. Wang, E. Ben-David, P. C. Wolf, A. M. Ramey, C. Verdugo, K. Lyons, P. G. Parker, L. Kruglyak </em><br /><a href="https://doi.org/10.1126/science.aal3345">Science. 356, Issue 6341 (2017)</a></p>
+
+<p>Varying Intolerance of Gene Pathways to Mutational Classes Explain Genetic Convergence across Neuropsychiatric Disorders <br />
+  <em>S. Shohat, E. Ben-David, S. Shifman </em><br /><a href="https://doi.org/10.1016/j.celrep.2017.02.007">Cell Rep. 18, 2217–2227 (2017)</a></p>
+
+<p>Discovering Single Nucleotide Polymorphisms Regulating Human Gene Expression Using Allele Specific Expression from RNA-seq Data <br />
+  <em>E. Y. Kang, L. J. Martin, S. Mangul, W. Isvilanonda, J. Zou, E. Ben-David, B. Han, A. J. Lusis, S. Shifman, E. Eskin </em><br /><a href="https://doi.org/10.1534/genetics.115.177246">Genetics. 204, 1057–1064 (2016)</a></p>
+
+<p>Imputing Phenotypes for Genome-wide Association Studies <br />
+  <em>F. Hormozdiari, E. Y. Kang, M. Bilow, E. Ben-David, C. Vulpe, S. McLachlan, A. J. Lusis, B. Han, E. Eskin </em><br /><a href="https://doi.org/10.1016/j.ajhg.2016.04.013">Am. J. Hum. Genet. 99, 89–103 (2016)</a></p>
+
+<p>Oncogenes create a unique landscape of fragile sites <br />
+  <em>K. Miron, T. Golan-Lev, R. Dvir, E. Ben-David, B. Kerem </em><br /><a href="https://doi.org/10.1038/ncomms8094">Nat Commun. 6, 7094 (2015)</a></p>
+
+<p>Transcriptional dynamics in colorectal carcinogenesis: new insights into the role of c-Myc and miR17 in benign to cancer transformation <br />
+  <em>E. Ben-David*, A. C. Bester*, S. Shifman, B. Kerem </em><br /><a href="https://doi.org/10.1158/0008-5472.CAN-14-0932">Cancer Res. 74, 5532–5540 (2014)</a></p>
+
+<p>Allelic expression analysis in the brain suggests a role for heterogeneous insults affecting epigenetic processes in autism spectrum disorders <br />
+  <em>E. Ben-David, S. Shohat, S. Shifman </em><br /><a href="https://doi.org/10.1093/hmg/ddu128">Hum Mol Genet. 23, 4111–4124 (2014)</a></p>
+
+<p>Chromatin regulators, phenotypic robustness, and autism risk <br />
+  <em>R. Suliman, E. Ben-David, S. Shifman </em><br /><a href="https://doi.org/10.3389/fgene.2014.00081">Front Genet. 5, 81 (2014)</a></p>
+
+<p>Global Indiscriminate Methylation in Cell-Specific Gene Promoters following Reprogramming into Human Induced Pluripotent Stem Cells <br />
+  <em>J. Nissenbaum, O. Bar-Nur, E. Ben-David, N. Benvenisty </em><br /><a href="https://doi.org/10.1016/j.stemcr.2013.11.007">Stem Cell Reports. 1, 509–517 (2013)</a></p>
+
+<p>Combined analysis of exome sequencing points toward a major role for transcription regulation during brain development in autism <br />
+  <em>E. Ben-David, S. Shifman </em><br /><a href="https://doi.org/10.1038/mp.2012.148">Molecular Psychiatry. 18, 1054–1056 (2013)</a></p>
+
+<p>Fine-scale maps of recombination rates and hotspots in the mouse genome <br />
+  <em>H. Brunschwig, L. Levi, E. Ben-David, R. W. Williams, B. Yakir, S. Shifman </em><br /><a href="https://doi.org/10.1534/genetics.112.141036">Genetics. 191, 757–764 (2012)</a></p>
+
+<p>Networks of Neuronal Genes Affected by Common and Rare Variants in Autism Spectrum Disorders <br />
+  <em>E. Ben-David, S. Shifman </em><br /><a href="https://doi.org/10.1371/journal.pgen.1002556">PLoS Genet. 8, e1002556 (2012).</a></p>
+
+<p>Neurogenomic evidence for a shared mechanism of the antidepressant effects of exercise and chronic fluoxetine in mice <br />
+  <em>G.-J. Huang, E. Ben-David, A. Tort Piella, A. Edwards, J. Flint, S. Shifman </em><br /><a href="https://doi.org/10.1371/journal.pone.0035901">PLoS ONE. 7, e35901 (2012)</a></p>
+
+<p>Identification of a functional rare variant in autism using genome-wide screen for monoallelic expression <br />
+  <em>E. Ben-David, E. Granot-Hershkovitz, G. Monderer-Rothkoff, E. Lerer, S. Levi, M. Yaari, R. P. Ebstein, N. Yirmiya, S. Shifman </em><br /><a href="https://doi.org/10.1093/hmg/ddr283">Hum Mol Genet. 20, 3632–3641 (2011)</a></p>
+
+<p>Further investigation of the association between rs7341475 and rs17746501 and schizophrenia <br />
+  <em>E. Ben-David, S. Shifman, International Schizophrenia Consortium </em><br /><a href="https://doi.org/10.1002/ajmg.b.31093">Am. J. Med. Genet. B Neuropsychiatr. Genet. 153B, 1244–1247 (2010)</a></p>
+
+:ET

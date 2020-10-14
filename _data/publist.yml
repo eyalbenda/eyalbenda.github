@@ -1,0 +1,224 @@
+
+
+- title: "Toxin-Antidote Elements Across the Tree of Life"
+  image: 
+  description: We review the biology of Toxin-Antidote elements in both prokaryotes and eukaryotes and discuss their possible origins
+  authors: A. Burga*, E. Ben-David*, L. Kruglyak
+  link:
+    url: https://doi.org/10.1146/annurev-genet-112618-043659
+    display:  Annual Review of Genetics
+  highlight: 0
+  news2:
+
+
+- title: "Whole-organism mapping of the genetics of gene expression at cellular resolution"
+  image: sceqtl.png
+  description: We map regulatory variants in C. elegans across the different cell-types, and discover loci that affect individual neurons in a cell-specific manner.
+  authors: E. Ben-David, J. Boocock, L. Guo, S. Zdraljevic, J. S. Bloom, L. Kruglyak
+  link:
+    url: https://doi.org/10.1101/2020.08.23.263798
+    display:  bioRxiv (2020)
+  highlight: 1
+  news2:
+
+- title: "Ubiquitous selfish toxin-antidote elements in Caenorhabditis species"
+  image: tropics.png
+  description: We discovered five toxin-antidote (TAs) seflish elements in *C. tropicalis* and one in *C. briggsae*. Our work suggests they are common in nematodes, and in animals in general.
+  authors: E. Ben-David\*, P. Pliota\*, S. A. Widen, A. Koreshova, T. Lemus-Vergara, P. Verpukhovskiy, S. Mandali, C. Braendle, A. Burga, L. Kruglyak
+  link:
+    url: https://doi.org/10.1101/2020.08.06.240564
+    display:  bioRxiv (2020)
+  highlight: 1
+  news2:
+
+- title: "Three-dimensional virtual refocusing of fluorescence microscopy images using deep learning"
+  image: 
+  description: A collaboration with Yair Rivenson (UCLA), we resolve three-dimensional information from imaging a single plane using deep learning.
+  authors: Y. Wu, Y. Rivenson, H. Wang, Y. Luo, E. Ben-David, L. A. Bentolila, C. Pritz, A. Ozcan
+  link:
+    url: https://doi.org/10.1038/s41592-019-0622-5
+    display:  Nat Methods. 16, 1323–1331 (2019)
+  highlight: 0
+  news2:
+
+- title: "Fast genetic mapping of complex traits in C. elegans using millions of individuals in bulk"
+  image: xqtl.png
+  description: We developed a method to quickly map genetic loci affecting complex traits in extremely large populations in *C. elegans*.
+  authors: A. Burga\*, E. Ben-David\*, T. Lemus Vergara, J. Boocock, L. Kruglyak
+  link:
+    url: https://doi.org/10.1038/s41467-019-10636-9
+    display:  Nat Commun. 10, 2680 (2019)
+  highlight: 1
+  news2:
+
+
+- title: "A maternal-effect selfish genetic element in Caenorhabditis elegans"
+  image: pha1.png
+  description: We discovered that *pha-1*, a gene thought to be essential for nematode worm development is, in fact, part of a toxin-antidote selfish genetic element.
+  authors: E. Ben-David\*, A. Burga\*, L. Kruglyak
+  link:
+    url: https://doi.org/10.1126/science.aan0621
+    display:  Science. 356, Issue 6342 (2017)
+  highlight: 1
+  news2: covered in <a href="https://www.sciencedirect.com/science/article/pii/S0960982217308898">current biology</a>, <a href="https://arstechnica.com/science/2017/05/worm-moms-pumps-eggs-full-of-toxin-demand-they-inherit-an-antidote/">ars technica</a>, <a href="https://www.sciencenews.org/article/selfish-genes-hide-decades-plain-sight-worm-geneticists">science news</a>, <a href="https://phys.org/news/2017-05-worms-reveals-selfish-genes-encode.html">phys.org</a>
+
+- title: "A genetic signature of the evolution of loss of flight in the Galapagos cormorant"
+  image: 
+  description: 
+  authors: A. Burga, W. Wang, E. Ben-David, P. C. Wolf, A. M. Ramey, C. Verdugo, K. Lyons, P. G. Parker, L. Kruglyak
+  link:
+    url: https://doi.org/10.1126/science.aal3345
+    display:  Science. 356, Issue 6341 (2017)
+  highlight: 0
+  news2:
+
+- title: "Varying Intolerance of Gene Pathways to Mutational Classes Explain Genetic Convergence across Neuropsychiatric Disorders"
+  image: 
+  description: 
+  authors: S. Shohat, E. Ben-David, S. Shifman
+  link:
+    url: https://doi.org/10.1016/j.celrep.2017.02.007
+    display:  Cell Rep. 18, 2217–2227 (2017)
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Discovering Single Nucleotide Polymorphisms Regulating Human Gene Expression Using Allele Specific Expression from RNA-seq Data"
+  image: 
+  description: 
+  authors: E. Y. Kang, L. J. Martin, S. Mangul, W. Isvilanonda, J. Zou, E. Ben-David, B. Han, A. J. Lusis, S. Shifman, E. Eskin
+  link:
+    url: https://doi.org/10.1534/genetics.115.177246
+    display:  Genetics. 204, 1057–1064 (2016)
+  highlight: 0
+  news2:
+
+- title: "Imputing Phenotypes for Genome-wide Association Studies"
+  image: 
+  description:
+  authors: F. Hormozdiari, E. Y. Kang, M. Bilow, E. Ben-David, C. Vulpe, S. McLachlan, A. J. Lusis, B. Han, E. Eskin
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2016.04.013
+    display: Am. J. Hum. Genet. 99, 89–103 (2016)
+  highlight: 0
+  news2:
+
+- title: Oncogenes create a unique landscape of fragile sites
+  image: 
+  description: 
+  authors: K. Miron, T. Golan-Lev, R. Dvir, E. Ben-David, B. Kerem
+  link:
+    url: https://doi.org/10.1038/ncomms8094
+    display:  Nat Commun. 6, 7094 (2015)
+  highlight: 0
+  news2: 
+
+- title: "Transcriptional dynamics in colorectal carcinogenesis: new insights into the role of c-Myc and miR17 in benign to cancer transformation"
+  image: 
+  description: 
+  authors: E. Ben-David\*, A. C. Bester\*, S. Shifman, B. Kerem
+  link:
+    url: https://doi.org/10.1158/0008-5472.CAN-14-0932
+    display:  Cancer Res. 74, 5532–5540 (2014)
+  highlight: 0
+  news2:
+
+- title: "Allelic expression analysis in the brain suggests a role for heterogeneous insults affecting epigenetic processes in autism spectrum disorders"
+  image: SCAUweb.jpg
+  description:
+    
+  authors:
+    E. Ben-David, S. Shohat, S. Shifman
+  link:
+    url: https://doi.org/10.1093/hmg/ddu128
+    display: Hum Mol Genet. 23, 4111–4124 (2014)
+  highlight: 0
+
+- title: "Chromatin regulators, phenotypic robustness, and autism risk"
+  image: 
+  description:
+  authors:
+    R. Suliman, E. Ben-David, S. Shifman
+  link:
+    url: https://doi.org/10.3389/fgene.2014.00081
+    display:  Front Genet. 5, 81 (2014)
+  highlight: 0
+
+- title: Global Indiscriminate Methylation in Cell-Specific Gene Promoters following Reprogramming into Human Induced Pluripotent Stem Cells
+  image: 
+  description:
+  authors:
+    J. Nissenbaum, O. Bar-Nur, E. Ben-David, N. Benvenisty
+  link:
+    url: https://doi.org/10.1016/j.stemcr.2013.11.007
+    display: Stem Cell Reports. 1, 509–517 (2013)
+  highlight: 0
+  news2: 
+
+- title: "Combined analysis of exome sequencing points toward a major role for transcription regulation during brain development in autism"
+  image: 
+  description:
+  authors:
+    E. Ben-David, S. Shifman
+  link:
+    url: https://doi.org/10.1038/mp.2012.148
+    display: Molecular Psychiatry. 18, 1054–1056 (2013)
+  highlight: 0
+  news1:
+  news2: 
+
+- title: Fine-scale maps of recombination rates and hotspots in the mouse genome
+  image: dummy.png
+  description: ""
+  authors:
+    H. Brunschwig, L. Levi, E. Ben-David, R. W. Williams, B. Yakir, S. Shifman
+  link:
+    url: https://doi.org/10.1534/genetics.112.141036
+    display: Genetics. 191, 757–764 (2012)
+  highlight: 0
+  news1: 
+  news2:
+
+- title: Networks of Neuronal Genes Affected by Common and Rare Variants in Autism Spectrum Disorders
+  image: 
+  description:
+  authors:
+    E. Ben-David, S. Shifman
+  link:
+    url: https://doi.org/10.1371/journal.pgen.1002556
+    display: PLoS Genet. 8, e1002556 (2012).
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: Neurogenomic evidence for a shared mechanism of the antidepressant effects of exercise and chronic fluoxetine in mice
+  image: 
+  description:
+  authors:
+    G.-J. Huang, E. Ben-David, A. Tort Piella, A. Edwards, J. Flint, S. Shifman
+  link:
+    url: https://doi.org/10.1371/journal.pone.0035901
+    display: PLoS ONE. 7, e35901 (2012)
+  highlight: 0
+  news: 
+
+- title: Identification of a functional rare variant in autism using genome-wide screen for monoallelic expression
+  image: 
+  description:
+  authors: E. Ben-David, E. Granot-Hershkovitz, G. Monderer-Rothkoff, E. Lerer, S. Levi, M. Yaari, R. P. Ebstein, N. Yirmiya, S. Shifman
+  highlight: 0
+  link:
+    url: https://doi.org/10.1093/hmg/ddr283
+    display: Hum Mol Genet. 20, 3632–3641 (2011)
+  news2: 
+
+- title: Further investigation of the association between rs7341475 and rs17746501 and schizophrenia
+  image: 
+  description:
+  authors:
+    E. Ben-David, S. Shifman, International Schizophrenia Consortium
+  link:
+    url: https://doi.org/10.1002/ajmg.b.31093
+    display: Am. J. Med. Genet. B Neuropsychiatr. Genet. 153B, 1244–1247 (2010)
+  highlight: 0
+  news2:
