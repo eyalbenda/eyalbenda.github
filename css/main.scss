@@ -8,6 +8,10 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 22px;
+    margin-bottom: 11px;
+}
 
 body {
 	padding-top: 70px;
@@ -59,6 +63,7 @@ firstp {
 	margin-top: 6px;
 	margin-bottom: 6px;
 }
+
 
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
