@@ -12,6 +12,5 @@ The overarching goal of our research is to understand how genetic variation shap
 **October 2020 Update: Ben-David lab is launching and recruiting a lab manager and students at all levels. See [openings](openings)**
  
 <figure class="fourth">
-
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/israel-foundation-sc.jpg" style="width: 110px">
+  <a href="https://new.huji.ac.il/"><img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" alt=""></a> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/israel-foundation-sc.jpg" style="width: 110px">
 </figure>
