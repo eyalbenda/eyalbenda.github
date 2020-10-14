@@ -6,7 +6,7 @@ sitemap: false
 permalink: /openings
 ---
 
-The lab is committed to creating a nurturing, positive enviroment for learning and research excellence. 
+The lab is committed to creating a nurturing, positive enviroment for learning and research excellence, and to provide an equal opportunity to talented people of all backgrounds. If you're excellent, you belong here! 
 
 ## Lab manager
 
