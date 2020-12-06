@@ -1,6 +1,7 @@
 ---
-title: "Ben-David Lab -- Research"
-layout: textlay
+title: "Eyal Ben-David Lab -- Research"
+description: "Research projects of the Eyal Ben-David at the Hebrew University school of medicine.
+layout: textlay"
 excerpt: "Ben-David Lab -- Research"
 sitemap: false
 permalink: /research/

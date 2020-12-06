@@ -1,8 +1,9 @@
 ---
-title: "Ben-David Lab -- Team"
+title: "Eyal Ben-David Lab -- Team"
+description: "Team members of the Eyal Ben David lab at the Hebrew University school of medicine."
+author: "Eyal Ben David"
 layout: gridlay
 excerpt: "Ben-David Lab -- Team"
-sitemap: false
 permalink: /team/
 ---
 

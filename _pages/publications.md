@@ -1,8 +1,9 @@
 ---
 title: "Ben-David Lab -- Publications"
+description: "Publication list of Eyal Ben David and the lab"
+author: "Eyal Ben David"
 layout: gridlay
 excerpt: "Ben-David Lab -- Publications."
-sitemap: false
 permalink: /publications/
 ---
 

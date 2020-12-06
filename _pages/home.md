@@ -1,8 +1,9 @@
 ---
-title: "Ben-David Lab -- Home"
+title: "Eyal Ben-David Lab"
+description: "Home page for the Eyal Ben-David lab at the Hebrew University school of medicine. Genetics, Genomics and evolutionary biology in C. elegans and related species"
+author: Eyal Ben David
 layout: homelay
 excerpt: "Ben-David lab at Hebrew University."
-sitemap: false
 permalink: /
 ---
 
