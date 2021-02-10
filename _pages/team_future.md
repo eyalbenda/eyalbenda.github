@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **The lab is recruiting a lab manager and students at all levels to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **The lab is recruiting students at all levels** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 {% assign number_printed = 0 %}
